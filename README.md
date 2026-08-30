@@ -1,91 +1,62 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,20,30&height=220&section=header&text=JUAN%20LEMOS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automation%20%26%20Systems&descAlignY=55&descAlign=50" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;C%23+%C2%B7+Node.js+%C2%B7+Python;Automa%C3%A7%C3%A3o+%26+Arquitetura+de+Sistemas" alt="Typing SVG" />
-</a>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=4000&pause=500&color=A78BFA&center=true&vCenter=true&width=500&lines=JUAN+LEMOS" alt="Typing SVG" />
+  </h1>
+  
+  <h3>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+Developer;Automation+%26+Systems;Problem+Solver" alt="Typing SVG" />
+  </h3>
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  
 </div>
 
 <br/>
 
-### Sobre
+## 🧑‍💻 Sobre Mim
 
-Desenvolvedor back-end focado em automação de processos e arquitetura de sistemas. Gosto de entender o problema a fundo antes de escrever a primeira linha de código — transformando tarefas manuais e repetitivas em soluções eficientes e escaláveis.
+Desenvolvedor back-end com paixão por **automação** e **arquitetura de sistemas**. Acredito que soluções bem pensadas eliminam retrabalho — então antes de codar, entendo o problema, mapeio o fluxo e construo algo que realmente resolve.
 
-Sempre aprendendo, sempre otimizando.
+> “Automação não é sobre substituir pessoas, é sobre libertá-las para fazer o que importa.”
 
-<br/>
+---
 
-### Stack
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,nodejs,python,mysql&theme=dark" />
+  
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  
 </div>
 
-<br/>
+---
 
-### No momento
+## 🚀 No Momento
 
-```
-Aprofundando C# e .NET
-Escalando automações com Node.js e Python
-Aperfeiçoando arquitetura de bots e painéis administrativos
-Explorando novas integrações e APIs
-```
-
-<br/>
-
-### Estatísticas
-
+┌─── Aprofundando C# e .NET
+├─── Escalando automações com Node.js e Python
+├─── Aperfeiçoando arquitetura de bots e painéis administrativos
+└─── Explorando novas integrações e APIs
+📊 Estatísticas
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=br4ncolemos&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D14&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9D9&ring_color=8B5CF6" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br4ncolemos&layout=compact&theme=radical&hide_border=true&bg_color=0D0D14&title_color=A78BFA&text_color=C9C9D9" height="160" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=br4ncolemos&theme=radical&hide_border=true&background=0D0D14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="160" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=br4ncolemos&theme=react-dark&hide_border=true&bg_color=0D0D14&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9" height="160" /></div>
+🏆 Conquistas
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=br4ncolemos&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" /></div>
+🐍 Contribuição
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=br4ncolemos&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=a78bfa&text_color=c9c9d9&ring_color=8b5cf6" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br4ncolemos&layout=compact&theme=radical&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c9c9d9&langs_count=8" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=br4ncolemos&theme=radical&hide_border=true&background=0d0d14&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
+https://github.com/br4ncolemos/br4ncolemos/blob/output/github-contribution-grid-snake-dark.svg
+
+<sub>Gerado via <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+
 </div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=br4ncolemos&theme=react-dark&hide_border=true&bg_color=0d0d14&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9" width="98%"/>
-</div>
-
-<br/>
-
-### Conquistas
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=br4ncolemos&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/br4ncolemos/br4ncolemos/main/dist/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>gerado automaticamente via <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
-</div>
-
-<br/>
-
-### Contato
-
-<div align="center">
-<a href="https://discord.com/users/SEU_ID_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-8b5cf6?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d14" />
-</a>
-<a href="https://www.linkedin.com/in/br4ncolemos" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-8b5cf6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d14" />
-</a>
-<a href="https://instagram.com/br4ncolemos" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-8b5cf6?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d14" />
-</a>
-<a href="mailto:seuemail@exemplo.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d14" />
-</a>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,0&height=100&section=footer"/>
-<sub>© Juan Lemos</sub>
-</div>
+📫 Contato
+<div align="center"> <a href="https://discord.com/users/seu_id_aqui" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D14" /> </a> <a href="https://www.linkedin.com/in/br4ncolemos" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D14" /> </a> <a href="https://instagram.com/br4ncolemos" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D14" /> </a> <a href="mailto:seuemail@exemplo.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D14" /> </a></div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,0&height=120&section=footer"/> <sub>© Juan Lemos</sub> </div>

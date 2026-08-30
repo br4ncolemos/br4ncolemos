@@ -24,10 +24,15 @@ Sempre aprendendo, sempre otimizando.
 
 <br/>
 
-### No momento aprofundando C# e .NET
+### No momento
+
+```
+Aprofundando C# e .NET
 Escalando automações com Node.js e Python
 Aperfeiçoando arquitetura de bots e painéis administrativos
 Explorando novas integrações e APIs
+```
+
 <br/>
 
 ### Estatísticas

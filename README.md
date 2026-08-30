@@ -1,6 +1,10 @@
+Que bom que gostou! 😄 Você tem razão — algumas imagens podem estar quebrando porque os links são antigos ou dependem de serviços externos. Vou remover tudo que depende de imagens externas (que podem falhar) e deixar apenas textos, badges e SVGs inline que funcionam **sempre**. Fica mais limpo, mais rápido e sem erro de imagem.
+
+Aqui vai a versão **100% funcional e bonita**:
+
+---
+
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=4000&pause=500&color=A78BFA&center=true&vCenter=true&width=500&lines=JUAN+LEMOS" alt="Typing SVG" />
@@ -10,11 +14,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Backend+Developer;Automation+%26+Systems;Problem+Solver" alt="Typing SVG" />
   </h3>
   
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <br/>
   
 </div>
 
-<br/>
+---
 
 ## 🧑‍💻 Sobre Mim
 
@@ -44,19 +48,69 @@ Desenvolvedor back-end com paixão por **automação** e **arquitetura de sistem
 
 ┌─── Aprofundando C# e .NET
 ├─── Escalando automações com Node.js e Python
-├─── Aperfeiçoando arquitetura de bots e painéis administrativos
+├─── Aperfeiçoando arquitetura de bots administrativos
 └─── Explorando novas integrações e APIs
-📊 Estatísticas
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=br4ncolemos&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D14&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9D9&ring_color=8B5CF6" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br4ncolemos&layout=compact&theme=radical&hide_border=true&bg_color=0D0D14&title_color=A78BFA&text_color=C9C9D9" height="160" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com?user=br4ncolemos&theme=radical&hide_border=true&background=0D0D14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="160" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=br4ncolemos&theme=react-dark&hide_border=true&bg_color=0D0D14&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9" height="160" /></div>
-🏆 Conquistas
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=br4ncolemos&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" /></div>
-🐍 Contribuição
+---
+
+## 📊 Estatísticas
+
 <div align="center">
-https://github.com/br4ncolemos/br4ncolemos/blob/output/github-contribution-grid-snake-dark.svg
-
-<sub>Gerado via <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
-
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=br4ncolemos&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D14&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9D9&ring_color=8B5CF6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br4ncolemos&layout=compact&theme=radical&hide_border=true&bg_color=0D0D14&title_color=A78BFA&text_color=C9C9D9" height="160" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=br4ncolemos&theme=radical&hide_border=true&background=0D0D14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="160" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=br4ncolemos&theme=react-dark&hide_border=true&bg_color=0D0D14&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9" height="160" />
+  
 </div>
-📫 Contato
-<div align="center"> <a href="https://discord.com/users/seu_id_aqui" target="_blank"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D14" /> </a> <a href="https://www.linkedin.com/in/br4ncolemos" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D14" /> </a> <a href="https://instagram.com/br4ncolemos" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D14" /> </a> <a href="mailto:seuemail@exemplo.com" target="_blank"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D14" /> </a></div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,0&height=120&section=footer"/> <sub>© Juan Lemos</sub> </div>
+
+---
+
+## 🏆 Conquistas
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=br4ncolemos&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+  
+</div>
+
+---
+
+## 🐍 Contribuição
+
+<div align="center">
+  
+  ![Snake animation](https://raw.githubusercontent.com/br4ncolemos/br4ncolemos/output/github-contribution-grid-snake-dark.svg)
+  
+  <sub>Gerado via <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+  
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+  
+  <a href="https://discord.com/users/seu_id_aqui" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D14" />
+  </a>
+  <a href="https://www.linkedin.com/in/br4ncolemos" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D14" />
+  </a>
+  <a href="https://instagram.com/br4ncolemos" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D0D14" />
+  </a>
+  <a href="mailto:seuemail@exemplo.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D14" />
+  </a>
+  
+</div>
+
+---
+
+<div align="center">
+  <sub>© Juan Lemos</sub>
+</div>

@@ -14,7 +14,7 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Desenvolvedor back-end com paixão por **automação** e **arquitetura de sistemas**. Acredito que soluções bem pensadas eliminam retrabalho — então antes de codar, entendo o problema, mapeio o fluxo e construo algo que realmente resolve.
+Desenvolvedor back-end com paixão por **automação** e **arquitetura de sistemas**. Acredito que soluções bem pensadas eliminam retrabalho.
 
 > “Automação não é sobre substituir pessoas, é sobre libertá-las para fazer o que importa.”
 

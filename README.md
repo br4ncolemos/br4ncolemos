@@ -26,12 +26,12 @@ Sempre aprendendo, sempre otimizando.
 
 ### No momento
 
-\`\`\`
+```
 Aprofundando C# e .NET
 Escalando automações com Node.js e Python
 Aperfeiçoando arquitetura de bots e painéis administrativos
 Explorando novas integrações e APIs
-\`\`\`
+```
 
 <br/>
 

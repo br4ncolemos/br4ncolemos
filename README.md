@@ -12,15 +12,11 @@
   
 </div>
 
----
-
 ## 🧑‍💻 Sobre Mim
 
 Desenvolvedor back-end com paixão por **automação** e **arquitetura de sistemas**. Acredito que soluções bem pensadas eliminam retrabalho — então antes de codar, entendo o problema, mapeio o fluxo e construo algo que realmente resolve.
 
 > “Automação não é sobre substituir pessoas, é sobre libertá-las para fazer o que importa.”
-
----
 
 ## 🛠️ Tech Stack
 
@@ -36,21 +32,17 @@ Desenvolvedor back-end com paixão por **automação** e **arquitetura de sistem
   
 </div>
 
----
-
 ## 🚀 No Momento
 
-┌─── Aprofundando C# e .NET
-├─── Escalando automações com Node.js e Python
-├─── Aperfeiçoando arquitetura de bots administrativos
-└─── Explorando novas integrações e APIs
----
+Aprofundando C# e .NET
+Escalando automações com Node.js e Python
+Aperfeiçoando arquitetura de bots administrativos
+Explorando novas integrações e APIs
 
 ## 📊 Estatísticas
 
 <div align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=br4ncolemos&theme=radical&hide_border=true&background=0D0D14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="160" /></div>
----
 
 ## 🐍 Contribuição
 
@@ -62,7 +54,6 @@ Desenvolvedor back-end com paixão por **automação** e **arquitetura de sistem
   
 </div>
 
----
 
 ## 📫 Contato
 
@@ -83,7 +74,6 @@ Desenvolvedor back-end com paixão por **automação** e **arquitetura de sistem
   
 </div>
 
----
 
 <div align="center">
   <sub>© Juan Lemos</sub>

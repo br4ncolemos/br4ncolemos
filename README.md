@@ -49,7 +49,7 @@ Desenvolvedor back-end com paixão por **automação** e **arquitetura de sistem
 ## 📊 Estatísticas
 
 <div align="center"> 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=br4ncolemos&theme=radical&hide_border=true&background=0D0D14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="160" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=br4ncolemos&theme=react-dark&hide_border=true&bg_color=0D0D14&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9" height="160" /></div>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=br4ncolemos&theme=radical&hide_border=true&background=0D0D14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="160" /></div>
 ---
 
 ## 🐍 Contribuição

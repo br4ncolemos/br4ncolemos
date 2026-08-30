@@ -1,9 +1,7 @@
 <div align="center">
 
-<!-- ==================== BANNER PRINCIPAL ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00fff2&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=DEV LEMOS%20—%20BACKEND%20CORE%20INITIALIZED&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00fff2&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=JUAN%20LEMOS%20—%20BACKEND%20CORE%20INITIALIZED&descAlignY=58&descAlign=50" width="100%"/>
 
-<!-- ==================== TYPING ANIMATION ==================== -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FFF2&center=true&vCenter=true&width=650&lines=%3E+Inicializando+sistema...;%3E+Ol%C3%A1%2C+eu+sou+o+Juan+%F0%9F%91%8B;%3E+Desenvolvedor+Back-End;%3E+Especialista+em+Automa%C3%A7%C3%B5es+%26+Solu%C3%A7%C3%B5es;%3E+C%23+%7C+Node.js+%7C+Python;%3E+Status%3A+ONLINE_" alt="Typing SVG" />
 </a>
@@ -18,7 +16,6 @@
 
 <br/>
 
-<!-- ==================== SOBRE MIM ==================== -->
 ## `01.` SOBRE_MIM.exe
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/user-attachments/assets/e6bd0e3b-b41d-4c6a-9b6d-1a1c8e8d6e5b" alt="jarvis-hologram" />
@@ -47,7 +44,6 @@ sistema:
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
 ## `02.` TECH_STACK.sys
 
 <div align="center">
@@ -73,7 +69,7 @@ sistema:
 | Categoria | Stack |
 |---|---|
 | 🧠 **Linguagens** | ![C#](https://img.shields.io/badge/C%23-1f6feb?style=flat-square&logo=csharp&logoColor=00fff2&labelColor=0d1117) ![Node.js](https://img.shields.io/badge/Node.js-1f6feb?style=flat-square&logo=node.js&logoColor=00fff2&labelColor=0d1117) ![Python](https://img.shields.io/badge/Python-1f6feb?style=flat-square&logo=python&logoColor=00fff2&labelColor=0d1117) |
-| ⚡ **Automação** | ![Discord.py](https://img.shields.io/badge/Discord.py-1f6feb?style=flat-square&logo=discord&logoColor=00fff2&labelColor=0d1117) ![Node--cron](https://img.shields.io/badge/Scripts%20%26%20Bots-1f6feb?style=flat-square&logo=zapier&logoColor=00fff2&labelColor=0d1117) |
+| ⚡ **Automação** | ![Discord.py](https://img.shields.io/badge/disnake%20%2F%20discord.py-1f6feb?style=flat-square&logo=discord&logoColor=00fff2&labelColor=0d1117) ![Bots](https://img.shields.io/badge/Scripts%20%26%20Bots-1f6feb?style=flat-square&logo=zapier&logoColor=00fff2&labelColor=0d1117) |
 | 🌐 **Web** | ![HTML5](https://img.shields.io/badge/HTML5-1f6feb?style=flat-square&logo=html5&logoColor=00fff2&labelColor=0d1117) ![CSS3](https://img.shields.io/badge/CSS3-1f6feb?style=flat-square&logo=css3&logoColor=00fff2&labelColor=0d1117) ![JavaScript](https://img.shields.io/badge/JavaScript-1f6feb?style=flat-square&logo=javascript&logoColor=00fff2&labelColor=0d1117) |
 | 🗃️ **Dados** | ![JSON](https://img.shields.io/badge/JSON-1f6feb?style=flat-square&logo=json&logoColor=00fff2&labelColor=0d1117) ![SQL](https://img.shields.io/badge/SQL-1f6feb?style=flat-square&logo=mysql&logoColor=00fff2&labelColor=0d1117) |
 | 🧰 **Versionamento** | ![Git](https://img.shields.io/badge/Git-1f6feb?style=flat-square&logo=git&logoColor=00fff2&labelColor=0d1117) ![GitHub](https://img.shields.io/badge/GitHub-1f6feb?style=flat-square&logo=github&logoColor=00fff2&labelColor=0d1117) |
@@ -82,7 +78,6 @@ sistema:
 
 ---
 
-<!-- ==================== PROJETOS ==================== -->
 ## `03.` PROJETOS.db
 
 <div align="center">
@@ -91,42 +86,42 @@ sistema:
 <tr>
 <td width="50%">
 
-### 🤖 Bot de Recrutamento
+### 🤖 Bot de Recrutamento — C.O.E
 **Discord Bot · Python (disnake)**
 
-Sistema completo de recrutamento e gestão de membros com fluxo de entrevistas, aprovação/recusa automatizada e notificações internas.
+Sistema completo de recrutamento e gestão de membros com fluxo de entrevistas, embeds visuais customizadas, aprovação/recusa automatizada e avisos para canais fixos.
 
 `Python` `disnake` `Automação`
 
 </td>
 <td width="50%">
 
-### 🔑 Storefront de Game Keys
+### 🔑 LXKeys — Admin & Storefront
 **Web Admin Panel · Node.js**
 
-Painel administrativo e loja para venda de chaves de jogos Steam, com gestão de estoque e vendas.
+Painel administrativo e loja dinâmica para venda de chaves de jogos Steam, com CRUD de produtos, rastreamento de pedidos, gestão de usuários e dashboard com Chart.js.
 
-`Node.js` `HTML` `Admin Panel`
+`Node.js` `HTML/JS` `Chart.js`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🛒 Shop Bot
+### 🛒 PsychoShopKey
 **Discord Bot · Python**
 
-Bot de Discord para operação de loja de chaves de jogos Steam diretamente na plataforma.
+Bot de operação de loja de chaves Steam direto no Discord: scraping de preços com markup automático, sistema de promoções com auto-revert, carrinho de compras e automação do canal de vendas.
 
 `Python` `Discord` `E-commerce`
 
 </td>
 <td width="50%">
 
-### 🚌 Site Institucional
+### 🚌 Transul — Site Institucional
 **SPA · HTML/CSS/JS**
 
-Landing page/SPA desenvolvida sob encomenda para empresa do setor de transporte coletivo.
+Site novo sob encomenda para empresa de transporte coletivo urbano, com paleta institucional própria e cobertura completa de linhas e horários.
 
 `HTML` `JavaScript` `SPA`
 
@@ -144,25 +139,23 @@ Landing page/SPA desenvolvida sob encomenda para empresa do setor de transporte 
 
 ---
 
-<!-- ==================== OBJETIVOS ATUAIS ==================== -->
 ## `04.` OBJETIVOS_ATUAIS.log
 
 ```bash
 juan@sistema:~$ cat objetivos_2026.log
 
-[OK]      Aprofundar conhecimento em C# e .NET
-[OK]      Escalar automações com Node.js e Python
-[EM PROGRESSO]  Aperfeiçoar arquitetura de bots e painéis administrativos
-[EM PROGRESSO]  Explorar novas integrações e APIs
-[PENDENTE]      Contribuir com projetos open source
-[PENDENTE]      Estudar cloud & deploy (Docker / CI-CD)
+[OK]              Aprofundar conhecimento em C# e .NET
+[OK]              Escalar automações com Node.js e Python
+[EM PROGRESSO]     Aperfeiçoar arquitetura de bots e painéis administrativos
+[EM PROGRESSO]     Explorar novas integrações e APIs
+[PENDENTE]         Contribuir com projetos open source
+[PENDENTE]         Estudar cloud & deploy (Docker / CI-CD)
 
 juan@sistema:~$ _
 ```
 
 ---
 
-<!-- ==================== GITHUB STATS ==================== -->
 ## `05.` ANALYTICS.core
 
 <div align="center">
@@ -178,7 +171,6 @@ juan@sistema:~$ _
 
 ---
 
-<!-- ==================== TROPHIES ==================== -->
 ## `06.` CONQUISTAS.achievements
 
 <div align="center">
@@ -189,7 +181,6 @@ juan@sistema:~$ _
 
 ---
 
-<!-- ==================== SNAKE ANIMATION ==================== -->
 ## `07.` CONTRIBUTION_MATRIX.anim
 
 <div align="center">
@@ -202,7 +193,6 @@ juan@sistema:~$ _
 
 ---
 
-<!-- ==================== REDES SOCIAIS ==================== -->
 ## `08.` CONTATO.connect
 
 <div align="center">
@@ -224,13 +214,10 @@ juan@sistema:~$ _
 
 ---
 
-<!-- ==================== RODAPÉ ==================== -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00fff2,50:1f6feb,100:0d1117&height=120&section=footer"/>
 
-`SYSTEM.LOG` → *"Código bem escrito é a automação que você não precisa refazer amanhã."*
-
-**© Juan · Powered by C# / Node.js / Python**
+`SYSTEM.LOG` →
 
 </div>

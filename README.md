@@ -54,13 +54,6 @@ Explorando novas integrações e APIs
 
 <br/>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/br4ncolemos/br4ncolemos/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>gerado automaticamente via <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
-</div>
-
-<br/>
-
 ### Contato
 
 <div align="center">

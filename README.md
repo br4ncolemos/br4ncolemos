@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ==================== BANNER PRINCIPAL ==================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00fff2&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=JUAN.EXE%20—%20BACKEND%20CORE%20INITIALIZED&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:00fff2&height=280&section=header&text=SYSTEM%20ONLINE&fontSize=60&fontColor=00fff2&animation=fadeIn&fontAlignY=38&desc=DEV LEMOS%20—%20BACKEND%20CORE%20INITIALIZED&descAlignY=58&descAlign=50" width="100%"/>
 
 <!-- ==================== TYPING ANIMATION ==================== -->
 <a href="https://git.io/typing-svg">
@@ -25,7 +25,7 @@
 
 ```yaml
 sistema:
-  nome: "Juan"
+  nome: "Juan Lemos"
   função: "Desenvolvedor Back-End"
   especialidade:
     - "Automação de processos"

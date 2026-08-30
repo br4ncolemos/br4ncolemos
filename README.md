@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,20,30&height=220&section=header&text=JUAN%20LEMOS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automation%20%26%20Systems&descAlignY=55&descAlign=50" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;C%23+%C2%B7+Node.js+%C2%B7+Python;Automa%C3%A7%C3%A3o+%26+Arquitetura+de+Sistemas" alt="Typing SVG" />
-</a>
+  <h1>👋 Olá, eu sou o Juan Lemos</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;C%23+%C2%B7+Node.js+%C2%B7+Python;Automa%C3%A7%C3%A3o+%26+Arquitetura+de+Sistemas" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -37,12 +37,21 @@ Explorando novas integrações e APIs
 
 ### Estatísticas
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=br4ncolemos&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=a78bfa&text_color=c9c9d9&ring_color=8b5cf6" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br4ncolemos&layout=compact&theme=radical&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c9c9d9&langs_count=8" height="165"/>
-<img src="https://streak-stats.demolab.com?user=br4ncolemos&theme=radical&hide_border=true&background=0d0d14&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=br4ncolemos&theme=react-dark&hide_border=true&bg_color=0d0d14&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9" width="98%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=br4ncolemos&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=a78bfa&text_color=c9c9d9&ring_color=8b5cf6" height="155"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br4ncolemos&layout=compact&theme=radical&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c9c9d9&langs_count=8" height="155"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=br4ncolemos&theme=radical&hide_border=true&background=0d0d14&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=br4ncolemos&theme=react-dark&hide_border=true&bg_color=0d0d14&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9" width="100%"/>
+</p>
 
 <br/>
 
@@ -81,6 +90,5 @@ Explorando novas integrações e APIs
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,0&height=100&section=footer"/>
 <sub>© Juan Lemos</sub>
 </div>

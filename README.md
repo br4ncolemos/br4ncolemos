@@ -26,12 +26,12 @@ Sempre aprendendo, sempre otimizando.
 
 ### No momento
 
-```
+\`\`\`
 Aprofundando C# e .NET
 Escalando automações com Node.js e Python
 Aperfeiçoando arquitetura de bots e painéis administrativos
 Explorando novas integrações e APIs
-```
+\`\`\`
 
 <br/>
 
@@ -50,6 +50,13 @@ Explorando novas integrações e APIs
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=br4ncolemos&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/br4ncolemos/br4ncolemos/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<sub>gerado automaticamente via <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 </div>
 
 <br/>

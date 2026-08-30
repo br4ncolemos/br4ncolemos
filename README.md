@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d14,50:6d28d9,100:a78bfa&height=260&section=header&text=JUAN%20LEMOS&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Automation%20%26%20Systems&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,20,30&height=220&section=header&text=JUAN%20LEMOS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Automation%20%26%20Systems&descAlignY=55&descAlign=50" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+Back-End;C%23+%C2%B7+Node.js+%C2%B7+Python;Automa%C3%A7%C3%A3o+%26+Arquitetura+de+Sistemas" alt="Typing SVG" />
@@ -24,15 +24,10 @@ Sempre aprendendo, sempre otimizando.
 
 <br/>
 
-### No momento
-
-```
-Aprofundando C# e .NET
+### No momento aprofundando C# e .NET
 Escalando automações com Node.js e Python
 Aperfeiçoando arquitetura de bots e painéis administrativos
 Explorando novas integrações e APIs
-```
-
 <br/>
 
 ### Estatísticas
@@ -55,7 +50,7 @@ Explorando novas integrações e APIs
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/br4ncolemos/br4ncolemos/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/br4ncolemos/br4ncolemos/output/dist/github-contribution-grid-snake-dark.svg" width="100%"/>
 <sub>gerado automaticamente via <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
 </div>
 
@@ -81,6 +76,6 @@ Explorando novas integrações e APIs
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,50:6d28d9,100:0d0d14&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,0&height=100&section=footer"/>
 <sub>© Juan Lemos</sub>
 </div>

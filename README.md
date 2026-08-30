@@ -1,9 +1,3 @@
-Que bom que gostou! 😄 Você tem razão — algumas imagens podem estar quebrando porque os links são antigos ou dependem de serviços externos. Vou remover tudo que depende de imagens externas (que podem falhar) e deixar apenas textos, badges e SVGs inline que funcionam **sempre**. Fica mais limpo, mais rápido e sem erro de imagem.
-
-Aqui vai a versão **100% funcional e bonita**:
-
----
-
 <div align="center">
   
   <h1>
@@ -63,16 +57,6 @@ Desenvolvedor back-end com paixão por **automação** e **arquitetura de sistem
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=br4ncolemos&theme=radical&hide_border=true&background=0D0D14&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" height="160" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=br4ncolemos&theme=react-dark&hide_border=true&bg_color=0D0D14&color=A78BFA&line=8B5CF6&point=FFFFFF&area=true&area_color=6D28D9" height="160" />
-  
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=br4ncolemos&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
   
 </div>
 

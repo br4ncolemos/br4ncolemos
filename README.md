@@ -19,7 +19,7 @@ Sempre aprendendo, sempre otimizando.
 ### Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cs,nodejs,python,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,nodejs,python,mysql&theme=dark" />
 </div>
 
 <br/>
@@ -35,37 +35,17 @@ Explorando novas integrações e APIs
 
 <br/>
 
-### Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=br4ncolemos&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=a78bfa&text_color=c9c9d9&ring_color=8b5cf6" height="155"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br4ncolemos&layout=compact&theme=radical&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c9c9d9&langs_count=8" height="155"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=br4ncolemos&theme=radical&hide_border=true&background=0d0d14&ring=8b5cf6&fire=a78bfa&currStreakLabel=a78bfa" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=br4ncolemos&theme=react-dark&hide_border=true&bg_color=0d0d14&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9" width="100%"/>
-</p>
-
-<br/>
-
-### Conquistas
+### Estatísticas e Atividade
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=br4ncolemos&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=br4ncolemos&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d14&title_color=a78bfa&icon_color=a78bfa&text_color=c9c9d9&ring_color=8b5cf6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=br4ncolemos&layout=compact&theme=radical&hide_border=true&bg_color=0d0d14&title_color=a78bfa&text_color=c9c9d9&langs_count=8" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/br4ncolemos/br4ncolemos/output/dist/github-contribution-grid-snake-dark.svg" width="100%"/>
-<sub>gerado automaticamente via <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=br4ncolemos&theme=react-dark&hide_border=true&bg_color=0d0d14&color=a78bfa&line=8b5cf6&point=ffffff&area=true&area_color=6d28d9" width="100%" />
 </div>
 
 <br/>
